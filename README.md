@@ -11,11 +11,17 @@ The code should work if you upload the `.ipynb` files to Google Drive and open i
 
 ## Repository Files
 
-- **[ML_For_Text_Analysis_and_Classification.ipynb](#)**
-- **[PyData_24_ML_for_Text_Analysis_and_Classification.pptx](#)**
-- **[PyData_24_ML_for_Text_Analysis_and_Classification.pdf](#)**
-- **[Python_Fundamentals.ipynb](#)**
-- **[README.md](#)**
-- **[sample_sloth_data.xlsx](#)**
+- **ML_For_Text_Analysis_and_Classification.ipynb**  
+  This notebook contains methods and examples for text analysis and classification using machine learning techniques.  
+- **PyData_24_ML_for_Text_Analysis_and_Classification.pptx**  
+  A PowerPoint presentation summarizing the key concepts and results of the text analysis workshop.  
+- **PyData_24_ML_for_Text_Analysis_and_Classification.pdf**  
+  The PDF version of the PowerPoint presentation for easier sharing and printing.  
+- **Python_Fundamentals.ipynb**  
+  A notebook that covers the basics of Python programming for beginners.  
+- **README.md**  
+  This file provides an overview of the project, setup instructions, and usage guidelines.  
+- **sample_sloth_data.xlsx**  
+  An Excel file containing sample data related to sloth observations for analysis.
 
 
